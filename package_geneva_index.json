@@ -16,7 +16,6 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.0.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.0.tar.bz2",
-          "checksum": "SHA-256:A55923559F9B207CF059313D8EA3EEE7B016F0F246CF98DDCC5B7DF0DCA28E63",
           "size": "8710410",
           "boards": [
             {"name": "Geneva L47x SARA"},
@@ -47,7 +46,6 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.1.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.1.tar.bz2",
-          "checksum": "SHA-256:00AFC753B450E4D66D6ABD1C19B78E1B2E5C98CBB57476CF24D385D50379CCD6",
           "size": "8727443",
           "boards": [
             {"name": "Geneva L47x SARA"}
@@ -77,7 +75,6 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.2.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.2.tar.bz2",
-          "checksum": "SHA-256:F1FE10A9E782DA74969E5D72059D92EE2E6321083E775474BF45D9470CF4A921",
           "size": "8727443",
           "boards": [
             {"name": "Geneva L47x SARA"}
@@ -195,7 +192,6 @@
               "host": "i686-mingw32",
               "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/ProgTools-0.1.0-windows.tar.bz2",
               "archiveFileName": "ProgTools-0.1.0-windows.tar.bz2",
-              "checksum": "SHA-256:A6A74DD51BCFAEDFC75FA6E2FCE9BF8169F828A7DAFC3BB4A1F152605D4CD598",
               "size": "2495092"
             },
             {
