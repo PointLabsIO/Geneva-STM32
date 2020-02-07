@@ -76,7 +76,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.2.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.2.tar.bz2",
-          "checksum": "SHA-256:fe7305b48b92e20d71740da8723e59e89abc2e8e159350e9b302adcedbc2b25c",
+          "checksum": "SHA256: F1FE10A9E782DA74969E5D72059D92EE2E6321083E775474BF45D9470CF4A921",
           "size": "8727443",
           "boards": [
             {"name": "Geneva L47x SARA"}
