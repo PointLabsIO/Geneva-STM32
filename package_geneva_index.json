@@ -3,7 +3,7 @@
     {
       "name": "Geneva",
       "websiteURL": "http://www.pointlabs.io",
-      "maintainer": "Rod Landers",
+      "maintainer": "POINT Labs",
       "email": "rod.landers@pointlabs.io",
       "help": {
         "online": "https://github.com/stm32duino"
