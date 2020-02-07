@@ -45,7 +45,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.1.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.1.tar.bz2",
-          "size": "8727443",
+          "size": "8724930",
           "boards": [
             {"name": "Geneva L47x SARA"}
           ],
@@ -74,7 +74,7 @@
           "category": "Contributed",
           "url": "https://raw.githubusercontent.com/PointLabsIO/Geneva-STM32/master/releases/Geneva-STM-0.1.2.tar.bz2",
           "archiveFileName": "Geneva-STM-0.1.2.tar.bz2",
-          "size": "8716034",
+          "size": "8711917",
           "boards": [
             {"name": "Geneva L47x SARA"}
           ],
