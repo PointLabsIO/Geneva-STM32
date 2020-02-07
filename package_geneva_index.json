@@ -184,7 +184,7 @@
           ]
         },
         {
-          "name": "STM32Tools",
+          "name": "ProgTools",
           "version": "0.1.0",
           "systems":
           [
