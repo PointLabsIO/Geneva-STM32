@@ -23,17 +23,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "arm-none-eabi-gcc",
               "version": "8.2.1-1.7"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "ProgTools",
               "version": "0.1.0"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "CMSIS",
               "version": "5.5.1"
             }
@@ -53,17 +53,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "arm-none-eabi-gcc",
               "version": "8.2.1-1.7"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "ProgTools",
               "version": "0.1.0"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "CMSIS",
               "version": "5.5.1"
             }
@@ -83,17 +83,17 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "arm-none-eabi-gcc",
               "version": "8.2.1-1.7"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "ProgTools",
               "version": "0.1.0"
             },
             {
-              "packager": "POINT Labs",
+              "packager": "Geneva",
               "name": "CMSIS",
               "version": "5.5.1"
             }
